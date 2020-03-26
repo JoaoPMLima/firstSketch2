@@ -1,0 +1,26 @@
+Math for function limitation by function boundary
+
+(
+
+
+//function-boundary-limitation
+
+((|f(x)-y+z|+f(x)-y+z)/2(f(x)-y+z))*
+((|y-f(x)+z|+y-f(x)+z)/2(y-f(x)+z))*
+
+
+//x-limitation
+
+((|x-a|+x-a)/2(x-a))*
+((|b-x|+b-x)/2(b-x))*
+
+
+//function
+
+(f(x)-y+1)
+
+
+//finish
+
+-1
+)
