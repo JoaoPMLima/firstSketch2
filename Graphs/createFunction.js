@@ -96,7 +96,7 @@ function createFunction(string,zz){
     tempString = tempString + "-y\\right)}{2\\left(";
     tempString = tempString + array[7];
     tempString = tempString + "-y\\right)}\\right)";
-    
+
 
     //actual function
     tempString = tempString + this.theFunct(array,true);
